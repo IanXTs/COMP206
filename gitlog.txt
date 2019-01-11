@@ -1,0 +1,11 @@
+commit ae244642bfe25ea7efdfe833cb60fea88f66f280
+Author: Ian Tsai <Ian@Ians-MacBook-Pro.local>
+Date:   Tue Dec 5 15:36:15 2017 -0500
+
+    All files done
+
+commit 57c3451dc6e070d3ab55e990fb0042dbbfa378af
+Author: Ian Tsai <Ian@Ians-MacBook-Pro.local>
+Date:   Tue Dec 5 09:25:51 2017 -0500
+
+    Producer done
